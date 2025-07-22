@@ -13,6 +13,10 @@ Se siguen una serie de pasos para hacer el análisis económico de ambas fuentes
 y para casos de obesidad:
 
 1. Preparar base de datos
-2. 
+2. Obtener mapas
+3. Obtener 
 
 
+Por otro lado, también se llevan a cabo las regresiones panel espaciales en Stata, siendo los archivos requeridos para ello:
+1. Comandos
+2. RegresioPanel.csv
