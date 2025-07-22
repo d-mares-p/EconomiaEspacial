@@ -13,8 +13,9 @@ Se siguen una serie de pasos para hacer el análisis económico de ambas fuentes
 y para casos de obesidad:
 
 1. Preparar base de datos
-2. Obtener mapas
-3. Obtener 
+2. Obtener estadísticos
+3. Realizar el análisis econométrico espacial
+4. Plus de código para NGE 
 
 
 Por otro lado, también se llevan a cabo las regresiones panel espaciales en Stata, siendo los archivos requeridos para ello:
